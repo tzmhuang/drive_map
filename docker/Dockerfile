@@ -10,6 +10,10 @@ WORKDIR /projects
 # Copy the content of the local src directory to the working directory
 COPY . .
 
+# location to mount volumn
+RUN mkdir -p /volumn
+
+
 # Install any dependencies
 RUN \
   if [ -f requirements.txt ]; \
