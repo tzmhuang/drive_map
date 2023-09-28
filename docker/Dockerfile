@@ -11,7 +11,7 @@ WORKDIR /projects
 COPY . .
 
 # location to mount volumn
-RUN mkdir -p /volumn
+RUN mkdir -p /projects/volumn
 
 
 # Install any dependencies
