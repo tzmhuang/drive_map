@@ -10,10 +10,14 @@ WORKDIR /projects
 # Copy the content of the local src directory to the working directory
 COPY . .
 
+RUN cd /projects
+# ADD ./map_webapp ./map_webapp
+
 # location to mount volumn
 USER 0
 RUN mkdir /volumn
 
+RUN yum install vim-enhanced -y  
 
 # Install any dependencies
 RUN \

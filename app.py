@@ -1,11 +1,13 @@
 from flask import Flask, render_template
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='map_webapp')
 
 @app.route('/')
 def hello():
-    return render_template('./map_webapp/main.html')
+    print('HERE')
+    print(os.listdir())
+    return render_template('./main.html')
 
 if __name__ == '__main__':
     port = os.environ.get('FLASK_PORT') or 8080
