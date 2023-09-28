@@ -1,0 +1,36 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  
+  <head>
+
+<link rel="stylesheet" href="style_upload.css">
+  
+  
+  </head>
+
+  <body>
+
+    <button onclick="location.href='./main.html'" type="button" id="backButton">
+        Back
+    </button>
+
+
+    
+    <div class="container">
+        <div class="card">
+          <h3>Upload Files</h3>
+          <div class="drop_box">
+            <header>
+              <h4>Select File here</h4>
+            </header>
+            <p>Files Supported: PDF, TEXT, DOC , DOCX</p>
+            <input type="file" hidden accept=".doc,.docx,.pdf" id="fileID" style="display:none;">
+            <button class="btn">Choose File</button>
+          </div>
+      
+        </div>
+      </div>
+      <script src="upload.js"></script>
+
+      </body>
+  </html>
