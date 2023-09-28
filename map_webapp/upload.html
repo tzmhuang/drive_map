@@ -10,12 +10,12 @@
   <body>
 
     <form>
-    <a href="{{url_for('hello')}}" id=gtest>
-    <button type="button" id="backButton">
-        Back
-    </button>
-  </a>
-  </form>
+      <a href="{{url_for('main')}}" >
+        <button type="button" id="backButton">
+            Back
+        </button>
+      </a>
+    </form>
 
 
     
@@ -28,12 +28,18 @@
             </header>
             <p>Files Supported: PDF, TEXT, DOC , DOCX</p>
             <input type="file" hidden accept=".doc,.docx,.pdf" id="fileID" style="display:none;">
-            <button class="btn">Choose File</button>
+            <!-- <button class="btn">Choose File</button> -->
+
+           <form method=post enctype=multipart/form-data>
+               <input class="btn" type=file name=file multiple>
+               <input class="btn" type=submit value=Upload>
+            </form>
+
           </div>
       
         </div>
       </div>
-      <script src="{{url_for('static', filename='style_upload.js')}}"></script>
+      <!-- <script src="{{url_for('static', filename='style_upload.js')}}"></script> -->
 
       </body>
   </html>

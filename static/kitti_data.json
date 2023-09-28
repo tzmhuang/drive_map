@@ -1,0 +1,2207 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3940379238521",
+                "48.994548493823"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_8400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4448796660323",
+                "49.014974392425"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_8800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3920687329965",
+                "48.982486786458"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_6000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4447946204539",
+                "49.016632642198"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_4000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4809297818041",
+                "48.995153209941"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_7600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3959731032223",
+                "48.98394219634"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_6400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3954707906397",
+                "48.9846109656"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3918666556363",
+                "48.980975801841"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_3200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4444009930387",
+                "49.016907433538"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_8000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4744467145598",
+                "48.953142129976"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_8400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4821222080276",
+                "48.990897355107"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4755867240746",
+                "48.972091940294"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4617548524559",
+                "48.956162006845"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_4000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3917554203963",
+                "48.985989536218"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_6400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4811082348552",
+                "48.98753477186"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_4800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4733639534764",
+                "48.964446236238"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_4400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4477394765222",
+                "49.017550965921"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4665483442499",
+                "48.957580390277"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4148259528373",
+                "48.953128312344"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_6800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4456576710849",
+                "49.012408122569"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_8000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4813545783407",
+                "48.990634547115"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_6800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3924433224467",
+                "48.984287220888"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.466474440254",
+                "48.957512572826"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4645916724715",
+                "48.959077817063"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4794003539197",
+                "48.999686678156"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4612635505261",
+                "48.95523045394"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4739006550014",
+                "48.955014058206"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_7200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4740545888767",
+                "48.953095767247"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_3600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4847045299636",
+                "48.969311319828"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_5200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4677561890186",
+                "48.961572655624"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3922031685007",
+                "48.990371975089"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_7200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4789386187627",
+                "48.988691776949"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4462369848171",
+                "48.969559365587"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_6400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4464518969782",
+                "49.014330696687"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4733926222014",
+                "48.955897811937"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_2800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3935552901136",
+                "48.98141945672"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_4800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3916368582377",
+                "48.985907038212"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_5600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3900828412783",
+                "48.983572425813"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3889115432526",
+                "48.984666416903"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_5600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4701664945172",
+                "48.957233839368"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_3600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4656261020267",
+                "48.955499334166"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4055605752604",
+                "48.992606873105"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_6000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4829865743938",
+                "48.99146249156"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_4800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4462200187335",
+                "49.017109791937"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_7200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4436274965794",
+                "49.011862235048"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_7200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4668416164199",
+                "48.957709943576"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_6800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4726870257471",
+                "48.953758011145"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4816648469325",
+                "49.000017769723"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_4800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4665982720464",
+                "48.960789146139"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4747334176391",
+                "48.954888789441"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_10400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4789765384511",
+                "48.990606482277"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_3200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4675674886205",
+                "48.957288868084"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_3600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3940017230197",
+                "48.986643247789"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4813184444181",
+                "48.971177464456"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_4400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4675374644839",
+                "48.962121048094"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_8800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4801214601422",
+                "48.991835946562"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_8400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.391349508849",
+                "48.9822593736"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_4000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4488176591929",
+                "49.016671140926"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_8000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4447862125541",
+                "49.012723789893"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.482305222731",
+                "48.970015700708"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4814254882127",
+                "48.971964042771"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4620985049412",
+                "48.955106366445"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4431926272351",
+                "49.017256794517"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_6000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4759315343584",
+                "48.958365208842"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4243704740396",
+                "48.955276938187"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_6400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.476746167036",
+                "48.953688333252"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_2800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4719217042094",
+                "48.955999864267"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_3200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3930832322527",
+                "48.983798105993"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0003_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4660033388629",
+                "48.984997086319"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_6800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4814011603357",
+                "48.988276828136"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3934495481869",
+                "48.986828185216"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4837272078797",
+                "49.00016086703"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4791680415555",
+                "48.971000073659"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_5600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4851054376646",
+                "48.99136447442"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.399415735929",
+                "48.991029865191"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_5200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4439129634472",
+                "49.013601225307"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_3600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4664999244079",
+                "48.95991420329"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_3600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4807021082318",
+                "48.99686900665"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4440023397935",
+                "49.018649100198"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4474018811005",
+                "49.019296041897"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_7200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3926968370164",
+                "48.983903067271"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_4800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4682806258188",
+                "48.953071664629"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4051675271042",
+                "48.965835190313"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_6000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3925081138447",
+                "48.985287375218"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_4400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4626500845023",
+                "48.95098945218"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4450029038033",
+                "49.017609708109"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_8800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4405367724395",
+                "49.01272447542"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_9600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3925516260022",
+                "48.98701039217"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_7600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4705823490084",
+                "48.954845274057"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4068245201375",
+                "48.95896006562"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_10000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3942122905069",
+                "48.985775280286"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4111354481699",
+                "48.99681058519"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_4000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4652704534814",
+                "48.951796846968"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_5200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.466424183791",
+                "48.956282166412"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_9200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4772792436398",
+                "48.991737872581"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_4000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4664151096165",
+                "48.963025390983"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_3200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4654535142908",
+                "48.95577424036"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4454455694793",
+                "49.020265643736"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_3200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4807494706726",
+                "48.96771854387"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4763903267133",
+                "48.957367577783"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4840177614098",
+                "49.000258515024"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_4400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4781746817205",
+                "48.967274788503"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.478546105177",
+                "48.972536553308"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_8000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3928939986",
+                "48.982701080603"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_2800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4474625092031",
+                "49.020108382091"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_5200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3899217878906",
+                "48.984965267265"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_1200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4764055839026",
+                "48.957316408995"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_2800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.460964511294",
+                "48.95451174928"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_7600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4402943242012",
+                "49.01234063652"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_6800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4710184016445",
+                "48.953095575101"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.391349477789",
+                "48.981208423197"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_2800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4782477876951",
+                "48.998059256119"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_9200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3900549530122",
+                "48.983745842437"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_3600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.448895160008",
+                "49.01570128367"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4714391233455",
+                "48.955856979149"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4840662565727",
+                "48.999195516611"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_4400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3906036725403",
+                "48.98610766374"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_6000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4688278531632",
+                "48.954717464522"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_10800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3922030426389",
+                "48.990371940928"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4057159731359",
+                "48.96143388265"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_3200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4806713108481",
+                "48.997373012554"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4411710247314",
+                "49.01779795478"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_5200",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.483304516983",
+                "48.992594750756"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_7600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4804748786082",
+                "48.98960528868"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4794456853292",
+                "48.99985547944"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_9600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4758039713631",
+                "48.988308478649"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_4000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4798333586853",
+                "48.967526021175"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4782544697789",
+                "48.969284610429"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_4800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4821797693208",
+                "48.993096305997"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_2000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3957256559662",
+                "48.981837866324"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_5600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.440396013838",
+                "49.01242806945"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.396392489916",
+                "48.983426458786"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_10000",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4787722302918",
+                "48.990624826596"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4634040752271",
+                "48.956913383259"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0003_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4706970896214",
+                "48.987645787582"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_6400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4689593627236",
+                "48.954516763658"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_4400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4814311457343",
+                "48.993987711668"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0006_sync_5600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4661735673676",
+                "48.952675182347"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_1600",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4120085193475",
+                "48.995454625466"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_0",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3942287993623",
+                "48.979885916628"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0004_sync_2800",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4821375382493",
+                "48.969276117974"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0010_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4105502823159",
+                "49.001604820773"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0000_sync_2400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4493636626189",
+                "49.017859856452"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0002_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4837107659707",
+                "48.998975765687"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0007_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.4366721542171",
+                "48.96237909818"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0005_sync_400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.473324830063",
+                "48.957489111654"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "2013_05_28_drive_0009_sync_10400",
+            "map": "kitti-360",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "8.3939407373841",
+                "48.987081150068"
+            ]
+        }
+    }
+]

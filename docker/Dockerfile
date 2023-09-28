@@ -16,6 +16,7 @@ RUN cd /projects
 # location to mount volumn
 USER 0
 RUN mkdir /volumn
+RUN mkdir /volumn/uploads
 
 # symlink to volumn
 RUN ln -s /volumn ./static/volumn

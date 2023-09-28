@@ -1,0 +1,354 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/otLED2MUtVw",
+            "map": "Brooklyn",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-74.039917",
+                "40.730028"
+            ]
+        }
+    }, 
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/op95EHWKEgI",
+            "map": "NewYork",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-73.996167",
+                "40.716000"
+            ]
+        }
+    }, 
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/Sn_z1uHmGJ8",
+            "map": "BeverlyHills",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-118.448083",
+                "34.057639"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/4uhMg5na888",
+            "map": "LosAngeles",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-118.218528",
+                "34.035667"
+            ]
+        }
+    }, 
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/oGjwx4EfRqU",
+            "map": "SanDiego",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-117.268250",
+                "32.847556"
+            ]
+        }
+    }, 
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/_Wyg213IZDI",
+            "map": "NewYork",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-73.991028",
+                "40.699694"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/no6Yc4gRBc0",
+            "map": "Seoul",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "127.050028",
+                "37.524639"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/_mzDsL9tcgc",
+            "map": "Taiwan",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "121.231361",
+                "25.076889"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/oDejyTLYUTE",
+            "map": "Tokyo",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "139.7668991",
+                "35.680024"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/Arz8k37-9F4",
+            "map": "Switzerland",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "7.8860204",
+                "46.6466648"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/r5GSFhW3q40",
+            "map": "Dublin",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-6.2878912",
+                "53.3361389"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/cFS7-CHCaiw",
+            "map": "SanFrancisco",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-122.4152642",
+                "37.7825125"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/JaLhmuzNmms",
+            "map": "Wyoming",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-111.0554281",
+                "43.0598028"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/KGAIumGxQeY",
+            "map": "Seoul",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "126.97400",
+                "37.553694"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/SuGOd1qRCxI",
+            "map": "Seoul",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "126.992722",
+                "37.566389"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/Y11w05u97Iw",
+            "map": "Tokyo",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "139.74483",
+                "35.650306"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/gbI9B8ICwqM",
+            "map": "Paris",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "2.251466",
+                "48.8520927"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/BfJM89EZRuk",
+            "map": "Paris",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "2.3191141",
+                "48.8626355"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/TC64wRJt3JA",
+            "map": "Vienna",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "16.3876254",
+                "48.2176199"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/fNCesoSwj6A",
+            "map": "Milan",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "9.1803695",
+                "45.4700693"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/MpA3FHZ3yZc",
+            "map": "MexicoCity",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-99.159333",
+                "19.4645784"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "web",
+            "src": "https://www.youtube.com/embed/oxZBX-e84O8",
+            "map": "MexicoCity",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-99.1467784",
+                "19.4366901"
+            ]
+        }
+    }
+]
