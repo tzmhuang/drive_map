@@ -1,8 +1,11 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_from_directory
 import os
 
 app = Flask(__name__, template_folder='map_webapp')
 
+@app.route(app.static_folder+'/<path:filename>')
+def serve_video(filename):
+    return send_from_directory(app.static_folder, filename)
 
 @app.route('/upload', methods=["GET", "POST"])
 def file_upload():

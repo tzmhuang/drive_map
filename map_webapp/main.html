@@ -43,6 +43,8 @@
         // NUSC
         L.geoJSON(pts_nusc, {
             onEachFeature: function(feature, layer){
+                // layer.bindPopup("<video width=1000% controls autoplay><source src='{{ url_for('serve_video', filename='feature.properties.scene') }}'></source></video>");
+
                 layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_nusc + feature.properties.scene + '.mp4' + '"></source></video>');
                 layer.on('mouseclick', function(e){
                     this.openPopup()

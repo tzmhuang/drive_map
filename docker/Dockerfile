@@ -17,6 +17,12 @@ RUN cd /projects
 USER 0
 RUN mkdir /volumn
 
+# symlink to volumn
+RUN ln -s /volumn ./static/volumn
+
+# # TEST
+# ADD  data/vids /volumn/vids
+
 # RUN yum install vim-enhanced -y  
 
 # Install any dependencies
