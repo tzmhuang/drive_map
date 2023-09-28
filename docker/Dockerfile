@@ -21,6 +21,10 @@ RUN mkdir /volumn/uploads
 # symlink to volumn
 RUN ln -s /volumn ./static/volumn
 
+
+# run chmod to uplpload
+RUN chmod 777 /projects/static/upload_data.json
+
 # # TEST
 # ADD  data/vids /volumn/vids
 
