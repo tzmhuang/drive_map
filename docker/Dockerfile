@@ -17,7 +17,7 @@ RUN cd /projects
 USER 0
 RUN mkdir /volumn
 
-RUN yum install vim-enhanced -y  
+# RUN yum install vim-enhanced -y  
 
 # Install any dependencies
 RUN \
