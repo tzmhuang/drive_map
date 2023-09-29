@@ -42,38 +42,38 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
-        // // NUSC
-        // L.geoJSON(pts_nusc, {
-        //     onEachFeature: function(feature, layer){
-        //         // layer.bindPopup("<video width=1000% controls autoplay><source src='{{ url_for('serve_video', filename='feature.properties.scene') }}'></source></video>");
+        // NUSC
+        L.geoJSON(pts_nusc, {
+            onEachFeature: function(feature, layer){
+                // layer.bindPopup("<video width=1000% controls autoplay><source src='{{ url_for('serve_video', filename='feature.properties.scene') }}'></source></video>");
 
-        //         layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_nusc + feature.properties.scene + '.mp4' + '"></source></video>');
-        //         layer.on('mouseclick', function(e){
-        //             this.openPopup()
-        //         })
-        //     }
-        // }).addTo(map);
+                layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_nusc + feature.properties.scene + '.mp4' + '"></source></video>');
+                layer.on('mouseclick', function(e){
+                    this.openPopup()
+                })
+            }
+        }).addTo(map);
         
-        // // KITTI
-        // L.geoJSON(pts_kitti, {
-        //     onEachFeature: function(feature, layer){
-        //         layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_kitti + feature.properties.scene + '.mp4' + '"></source></video>');
-        //         layer.on('mouseclick', function(e){
-        //             this.openPopup()
-        //         })
-        //     }
-        // }).addTo(map);
+        // KITTI
+        L.geoJSON(pts_kitti, {
+            onEachFeature: function(feature, layer){
+                layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_kitti + feature.properties.scene + '.mp4' + '"></source></video>');
+                layer.on('mouseclick', function(e){
+                    this.openPopup()
+                })
+            }
+        }).addTo(map);
 
 
-        // // WEB
-        // L.geoJSON(pts_web, {
-        //     onEachFeature: function(feature, layer){
-        //         layer.bindPopup('<iframe width="280" height="160" src="' + feature.properties.src + '?autoplay=1&mute=1' + '"></iframe>');
-        //         layer.on('mouseclick', function(e){
-        //             this.openPopup()
-        //         })
-        //     }
-        // }).addTo(map);
+        // WEB
+        L.geoJSON(pts_web, {
+            onEachFeature: function(feature, layer){
+                layer.bindPopup('<iframe width="280" height="160" src="' + feature.properties.src + '?autoplay=1&mute=1' + '"></iframe>');
+                layer.on('mouseclick', function(e){
+                    this.openPopup()
+                })
+            }
+        }).addTo(map);
 
         // UPLOAD
         L.geoJSON(pts_upload, {
