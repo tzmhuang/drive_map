@@ -60,6 +60,9 @@ def register_meta(meta_path, vid_path):
     with open(meta_path, 'r') as f:
         meta = json.load(f)
     
+    if not isinstance(meta, dict):
+        return False
+    
     meta['video_path'] = vid_path.rsplit('/', 1)[-1]
 
     with open(app.config['UPLOAD_META_DB'], 'r') as f:
@@ -69,6 +72,7 @@ def register_meta(meta_path, vid_path):
     db.append(meta)
     with open(app.config['UPLOAD_META_DB'], 'w') as f:
         json.dump(db, f, indent=2)
+    return True
 
 
 @app.route('/upload', methods=['GET', 'POST'])
@@ -110,7 +114,9 @@ def upload():
                 f.save(meta_path)
 
         # add to existing dataset        
-        register_meta(meta_path, vid_path)
+        if not register_meta(meta_path, vid_path):
+            return redirect(request.url)
+
         
 
 
