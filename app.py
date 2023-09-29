@@ -37,6 +37,12 @@ if not os.path.exists(app.config['UPLOAD_META_DIR']):
     
 
 
+def dir_last_updated(folder):
+    return str(max(os.path.getmtime(os.path.join(root_path, f))
+                   for root_path, dirs, files in os.walk(folder)
+                   for f in files))
+
+
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -132,7 +138,7 @@ def serve_video(filename):
 @app.route('/')
 def main():
     print(os.listdir())
-    return render_template('./main.html')
+    return render_template('./main.html', last_updated=dir_last_updated(app.static_folder))
 
 if __name__ == '__main__':
     port = os.environ.get('FLASK_PORT') or 8080
