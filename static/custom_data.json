@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Pittsburgh",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-80.1362188",
+                "40.4313947"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Washington DC",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-77.0971485",
+                "38.893859"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Miami",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-80.3120314",
+                "25.7825388"
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Austin",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-98.0672337",
+                "30.3076885"
+            ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Palo Alto",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-122.1766354",
+                "37.425711"
+            ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Detroit",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-83.1817773",
+                "42.3528082"
+            ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Phoenix",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-112.4553852",
+                "33.6055479"
+            ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "San Francisco",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-122.5201726",
+                "37.7578069"
+            ]
+        }
+    },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "scene": "nan",
+            "map": "Mount View",
+            "show_on_map": true
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-122.2369863",
+                "37.4133694"
+            ]
+        }
+    }
+]

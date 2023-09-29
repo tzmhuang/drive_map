@@ -34,7 +34,7 @@
     </button> -->
 
     <script type="module">
-        import { pts_nusc, pts_kitti, pts_web, pts_upload } from "{{url_for('static', filename='geo_points.js')}}";
+        import { pts_nusc, pts_kitti, pts_web, pts_custom, pts_upload } from "{{url_for('static', filename='geo_points.js')}}";
 
         var map = L.map('map').setView([51.505, -0.09], 3);
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -80,6 +80,16 @@
             }
         }).addTo(map);
 
+        // Custom
+        L.geoJSON(pts_custom, {
+            onEachFeature: function(feature, layer){
+                // layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_nusc + feature.properties.scene + '.mp4' + '"></source></video>');
+                layer.bindPopup(feature.properties.map);
+                layer.on('mouseclick', function(e){
+                    this.openPopup()
+                })
+            }
+        }).addTo(map);
 
         // WEB
         L.geoJSON(pts_web, {
