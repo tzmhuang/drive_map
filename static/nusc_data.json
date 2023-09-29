@@ -2267,36 +2267,6 @@
     {
         "type": "Feature",
         "properties": {
-            "scene": "scene-0399",
-            "map": "singapore-hollandvillage",
-            "show_on_map": true
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                103.78761399664279,
-                1.3172549656105677
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "scene": "scene-0400",
-            "map": "singapore-hollandvillage",
-            "show_on_map": true
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                103.78757576386747,
-                1.3172905296473632
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "scene": "scene-0440",
             "map": "boston-seaport",
             "show_on_map": true
