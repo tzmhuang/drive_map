@@ -126,13 +126,17 @@ def upload():
         
 
 
-        return redirect(url_for('main'))
+        return redirect(url_for('loading'))
     return render_template("./upload.html")
 
 
 @app.route(app.static_folder+'/<path:filename>')
 def serve_video(filename):
     return send_from_directory(app.static_folder, filename)
+
+@app.route('/loading')
+def loading():
+    return render_template('./loading.html'), {"Refresh":"3.5; url="+url_for('main')}
 
 
 @app.route('/')
