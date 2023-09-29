@@ -42,8 +42,21 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
+
+        // Config Pin
+        var myIcon = L.icon({
+            iconUrl: "{{url_for('static', filename='red_pin.png')}}",
+            iconSize: [22, 38],
+        });
+
+        var detaultIcon = new L.Icon.Default();
+        detaultIcon.options.shadowSize = [0,0];
+
         // NUSC
         L.geoJSON(pts_nusc, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: detaultIcon});
+            },
             onEachFeature: function(feature, layer){
                 // layer.bindPopup("<video width=1000% controls autoplay><source src='{{ url_for('serve_video', filename='feature.properties.scene') }}'></source></video>");
 
@@ -56,6 +69,9 @@
         
         // KITTI
         L.geoJSON(pts_kitti, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: detaultIcon});
+            },
             onEachFeature: function(feature, layer){
                 layer.bindPopup('<video width=1000% controls autoplay><source src="' + vid_root_kitti + feature.properties.scene + '.mp4' + '"></source></video>');
                 layer.on('mouseclick', function(e){
@@ -67,6 +83,9 @@
 
         // WEB
         L.geoJSON(pts_web, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: myIcon});
+            },
             onEachFeature: function(feature, layer){
                 layer.bindPopup('<iframe width="280" height="160" src="' + feature.properties.src + '?autoplay=1&mute=1' + '"></iframe>');
                 layer.on('mouseclick', function(e){
