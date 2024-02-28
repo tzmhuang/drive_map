@@ -47,4 +47,4 @@ console.log(pts_upload)
 //   // logs [{ name: 'Joker'}, { name: 'Batman' }]
 // }
 
-loadNames();
+// loadNames();
