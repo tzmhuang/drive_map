@@ -10,6 +10,7 @@ import pts_custom from './custom_data.json' assert { type: 'json' };
 import pts_web from './youtube_data.json' assert { type: 'json' };
 import pts_upload from './upload_data.json' assert { type: 'json' };
 console.log(pts_upload)
+export { pts_nusc, pts_kitti, pts_web, pts_custom, pts_upload };
 
 // -----------
 
